@@ -103,7 +103,7 @@ body {
 }
 
 .blog  {
-  height: 1300px;
+  height: 1500px;
   width: 800px;
   display: inline-block;
   padding-left: 90px;
@@ -265,7 +265,7 @@ footer {
 
 .title {
   color: white;
-  padding-left: 20px;
+  padding-left: 40px;
   font-size: 47px;
   font-weight: bold;
   flex-grow: 2;
@@ -309,6 +309,36 @@ li  {
 .sections p {
   padding-top: 20px;
 }
+
+.large-letter {
+  padding: 5px;
+  font-size: 35px;
+}
+
+.learn-more {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.read-more  {
+  text-align: right;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link  {
+  color: RGBA(0, 32, 77, 1);
+}
+
+a:hover {
+    color: RGBA(0, 32, 77, .5);
+}
+
+
+
 
 .intro {
   color: white;
