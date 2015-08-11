@@ -102,6 +102,34 @@ body {
   font-size: 25px;
 }
 
+.blog  {
+  height: 1300px;
+  width: 800px;
+  display: inline-block;
+  padding-left: 90px;
+  RGBA(242, 246, 245, 1);
+}
+
+.sections {
+  padding: 40px;
+  float: left;
+  color: RGBA(0, 32, 77, 1);
+}
+
+.side-bar {
+  float: right;
+  padding-top: 30px;
+  padding-right: 100px;
+  color: RGBA(242, 246, 245, 1);
+}
+
+.about  {
+  width: 200px;
+}
+
+.ad  {
+  padding-top: 80px;
+}
 
 .quotes {
   height: 250px;
@@ -251,6 +279,36 @@ footer {
 /*.navigation a:hover {
   background: darken(deepskyblue, 2%);
 }*/
+
+.categories {
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+
+.side-bar {
+  color: RGBA(0, 32, 77, 1);
+
+}
+
+li  {
+  font-size: 20px;
+}
+
+
+.about-relaxr {
+  padding-top: 40px;
+  font-size: 30px;
+  padding-bottom: 30px;
+}
+
+.section-titles  {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.sections p {
+  padding-top: 20px;
+}
 
 .intro {
   color: white;
